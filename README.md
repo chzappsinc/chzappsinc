@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chzapps India</h1>
 <h3 align="center">We are freelance community from india</h3>
+<h5 align="center">Managed By @Jasim T K</h5>
 
 
 - 👨‍💻 All of my projects are available at [https://chzapps.com](https://chzapps.com)
