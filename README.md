@@ -1,14 +1,14 @@
-<h1 align="center">Hi, from Chzapps India</h1>
+<h1 align="center">Hi, from Team Chzapps India</h1>
 <img src="https://user-images.githubusercontent.com/6633808/160689302-3fe5e5d4-ba24-4525-8ed1-a8351ccbc0ef.png"/>
 <h3 align="center">We are freelance community from india</h3>
 <h5 align="center">Managed By @Jasim T K</h5>
 
-
+<!-- 
 - 👨‍💻 All of my projects are available at [https://chzapps.com](https://chzapps.com)
 
 - 📝 I regularly write articles on [https://github.com/chzappsinc](https://github.com/chzappsinc)
 
-- 💬 Ask me about **React, React Native, NodeJS, Php...**
+- 💬 Ask me about **React, React Native, NodeJS, Php...** -->
 
 - 📫 How to reach me **hello@chzapps.com**
 
